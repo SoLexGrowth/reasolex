@@ -46,7 +46,7 @@ Today, I’m focused on building companies that create real value, real jobs, an
     tagline: "Tech Entrepreneur • Founder • Business Builder",
     oneLiner:
       "I build companies and help startups grow, Africa first, built to scale globally.",
-    location: "Accra, Ghana",
+    location: "Lagos, Nigeria",
     email: "hello@realsolex.com",
     portfolioValue: "$400K+",
     image:
